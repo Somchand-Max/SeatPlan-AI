@@ -17,9 +17,21 @@ python -m streamlit run app.py
 Times should look like `2026-10-10 09:00`.
 
 ## Notes
-Credits & Acknowledgements
-​Project Lead & Core Developer: Somchand Ratangwal
-​Contributions: Streamlit dashboard development, exam seating allocation logic, room-capacity validation, rapid replanning, debugging, testing, and documentation.
-​Technology Stack: Python, Streamlit, Pandas.
-​Developed as a hackathon project to simplify examination seating management and support faster replanning when rooms or invigilators become unavailable.
-​©️ 2026 Somchand Ratangwal
+Member No 1
+Aditya Munge
+Core Algo lead
+Member No 2
+Credits & Acknowledgements  
+​Project Lead & Core Developer: Somchand Ratangwal  
+​Contributions: Streamlit dashboard development, exam seating allocation logic, room-capacity validation, rapid replanning, debugging, testing, and documentation.  
+​Technology Stack: Python, Streamlit, Pandas.  
+​Project Overview: Developed as a hackathon project to simplify examination seating management and support faster replanning when rooms or invigilators become unavailable.  
+​Copyright: ©️ 2026 Somchand Ratangwal
+Member no 3 - Abdul Wahhab Shaikh 
+Contributuon -   Backhand  Developer 
+Member no 4 - Manisi Yaswant 
+Contribution - Penetrater
+Member no - 5 Alwaz Hussain
+Contribution - Tester
+Member no - 6 piush gupta
+Contribution - Presentation ppt 
