@@ -17,11 +17,11 @@ python -m streamlit run app.py
 Times should look like `2026-10-10 09:00`.
 
 ## Notes
+Credits & Acknowledgements 
 Member No 1
 Aditya Munge
 Core Algo lead
 Member No 2
-Credits & Acknowledgements  
 ​Project Lead & Core Developer: Somchand Ratangwal  
 ​Contributions: Streamlit dashboard development, exam seating allocation logic, room-capacity validation, rapid replanning, debugging, testing, and documentation.  
 ​Technology Stack: Python, Streamlit, Pandas.  
