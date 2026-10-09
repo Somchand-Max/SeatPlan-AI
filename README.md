@@ -17,4 +17,9 @@ python -m streamlit run app.py
 Times should look like `2026-10-10 09:00`.
 
 ## Notes
-This is a hackathon prototype. It validates overlapping exams and room capacity, enforces no orthogonally adjacent seats with the same exam ID, supports unavailable room/invigilator inputs, and exports assignments and roster. The seating solver has a search-node limit; for large or highly constrained sessions it may report that it could not find a layout. Invigilator assignment is a simple prototype policy, not a production rostering system.
+Credits & Acknowledgements
+​Project Lead & Core Developer: Somchand Ratangwal
+​Contributions: Streamlit dashboard development, exam seating allocation logic, room-capacity validation, rapid replanning, debugging, testing, and documentation.
+​Technology Stack: Python, Streamlit, Pandas.
+​Developed as a hackathon project to simplify examination seating management and support faster replanning when rooms or invigilators become unavailable.
+​©️ 2026 Somchand Ratangwal
